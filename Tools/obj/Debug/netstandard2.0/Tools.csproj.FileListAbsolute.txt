@@ -1,0 +1,9 @@
+E:\Wantsome\CarShop\Tools\bin\Debug\netstandard2.0\Tools.deps.json
+E:\Wantsome\CarShop\Tools\bin\Debug\netstandard2.0\Tools.dll
+E:\Wantsome\CarShop\Tools\bin\Debug\netstandard2.0\Tools.pdb
+E:\Wantsome\CarShop\Tools\obj\Debug\netstandard2.0\Tools.csprojAssemblyReference.cache
+E:\Wantsome\CarShop\Tools\obj\Debug\netstandard2.0\Tools.csproj.CoreCompileInputs.cache
+E:\Wantsome\CarShop\Tools\obj\Debug\netstandard2.0\Tools.AssemblyInfoInputs.cache
+E:\Wantsome\CarShop\Tools\obj\Debug\netstandard2.0\Tools.AssemblyInfo.cs
+E:\Wantsome\CarShop\Tools\obj\Debug\netstandard2.0\Tools.dll
+E:\Wantsome\CarShop\Tools\obj\Debug\netstandard2.0\Tools.pdb
